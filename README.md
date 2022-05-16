@@ -23,4 +23,4 @@ Also, do not worry about too many images, the program will not crash :)
 
 ![App Screenshot](../media/p5.png?raw=true)
 
-Finis !
+Finish !
