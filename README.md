@@ -9,6 +9,8 @@ And to start app run this [ npm start ].
 
 All you have to do is, give the input folder path to the program, and specify the output folder path if you need to.
 
+(PNG-JPG-JPEG)
+
 ![App Screenshot](../media/p1.png?raw=true)
 
 ![App Screenshot](../media/p2.png?raw=true)
