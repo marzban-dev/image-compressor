@@ -15,7 +15,7 @@ All you have to do is, give the input folder path to the program, and specify th
 
 ![App Screenshot](../media/p3.png?raw=true)
 
-Output path by default is [ application-directory/dist ]
+Output path by default is [ application-directory/dist/images ]
 
 Also, do not worry about too many images, the program will not crash :)
 
