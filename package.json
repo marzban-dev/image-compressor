@@ -1,0 +1,21 @@
+{
+  "name": "image_compressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "compress-images": "^2.0.5",
+    "gifsicle": "^5.2.1",
+    "inquirer": "^8.2.1",
+    "log-symbols": "^5.1.0",
+    "pngquant-bin": "^6.0.1"
+  }
+}
